@@ -114,42 +114,6 @@ p { margin:0px; }
 
 /* Distinguish the "cover page" visually other sections. */
 body.section-0 #map { opacity:0.5; }
-
-@media (max-width:640px) {
-  body {
-    font-size:12px;
-    line-height:16px;
-    }
-  article {
-    width:100%;
-    min-width:100%;
-    padding-top:0px;
-    padding-bottom:200%;
-    }
-  section {
-    text-shadow:none;
-    margin-left:0px;
-    padding:30px;
-    }
-  section.active {
-    position:fixed;
-    top:0px; left:0px; right:0px;
-    }
-  #pane { width:100%; }
-  #map  {
-    bottom:0%;
-    left:0%;
-    width:100%;
-    height:150%;
-    }
-  }
-
-@media (min-width:1280px) {
-  body {
-    font-size:18px;
-    line-height:24px;
-    }
-  }
 </style>
 </head>
 <body class='section-0'>
@@ -196,9 +160,7 @@ body.section-0 #map { opacity:0.5; }
     <small class='colophon'>
       Adapted from <a href='http://www.gutenberg.org/files/2346/2346-h/2346-h.htm'>Project Gutenberg</a><br/>
       Map data &copy; <a href='http://openstreetmap.org/copyright'>OpenStreetMap Contributors</a><br/>
-      Map design &copy; <a href='http://mapbox.com/about/maps/'>MapBox</a><br/>
-	  A work by <a href='https://github.com/mapbox/tutorial-sherlock'>Young Hann</a><br/>
-	  Reprinted by <a href='https://github.com/danylaksono'>Dany Laksono</a> for educational purpose
+      Map design &copy; <a href='http://mapbox.com/about/maps/'>MapBox</a>
     </small>
   </section>
 </article>
@@ -225,12 +187,8 @@ var geojson = [
     "properties": { "id": "charing-cross" } }
 ];
 var tiles = mapbox.layer().tilejson({
-  tiles: [ "https://a.tiles.mapbox.com/v3/examples.map-liczq28b/{z}/{x}/{y}.png" ]
+  tiles: [ "http://a.tiles.mapbox.com/v3/examples.map-liczq28b/{z}/{x}/{y}.png" ]
 });
-
-// Use https for markers
-mapbox.markers.marker_baseurl = 'https://a.tiles.mapbox.com/v3/marker/';
-
 var spots = mapbox.markers.layer()
   // Load up markers from geojson data.
   .features(geojson)
