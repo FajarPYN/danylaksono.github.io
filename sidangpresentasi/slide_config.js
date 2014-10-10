@@ -1,8 +1,8 @@
 var SLIDE_CONFIG = {
   // Slide settings
   settings: {
-    title: 'Title Goes Here<br>Up To Two Lines',
-    subtitle: 'Subtitle Goes Here',
+    title: 'Mobile SfM for 3D Reconstruction:<br>Implementation and Evaluation',
+    subtitle: 'Thesis Proposal, Geomatics Engineering UGM',
     //eventInfo: {
     //  title: 'Google I/O',
     //  date: '6/x/2013'
@@ -22,12 +22,12 @@ var SLIDE_CONFIG = {
 
   // Author information
   presenters: [{
-    name: 'Firstname Lastname',
-    company: 'Job Title<br>Google',
-    gplus: 'http://plus.google.com/1234567890',
-    twitter: '@yourhandle',
-    www: 'http://www.you.com',
-    github: 'http://github.com/you'
+    name: 'Dany laksono',
+  //  company: 'Job Title<br>Google',
+//    gplus: 'http://plus.google.com/1234567890',
+//    twitter: '@yourhandle',
+    www: 'http://www.danylaksono.com',
+    github: 'http://github.com/danylaksono'
   }/*, {
     name: 'Second Name',
     company: 'Job Title, Google',
