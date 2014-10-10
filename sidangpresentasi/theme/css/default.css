@@ -1211,8 +1211,8 @@ article.smaller q:before, article.smaller q:after {
 /* ===== SLIDE CONTENT ===== */
 /* line 803, ../scss/default.scss */
 .logoslide img {
-  width: 383px;
-  height: 92px;
+  width: 834px;  /*changed this from 383px */
+  height: 190px;
 }
 
 /* line 809, ../scss/default.scss */
@@ -1328,7 +1328,7 @@ aside.gdbar img {
 }
 /* line 891, ../scss/default.scss */
 .title-slide hgroup h1 {
-  font-size: 65px;
+  font-size: 58px;  /* changed this from 65 */
   line-height: 1.4;
   letter-spacing: -3px;
   color: #515151;
