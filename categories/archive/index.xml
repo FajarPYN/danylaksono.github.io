@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title> </title>
-    <link>http://github.com/danylaksono/danylaksono.github.io/categories/archive/index.xml/</link>
+    <link>http://danylaksono.com/categories/archive/index.xml/</link>
     <language>en-us</language>
     <author>Dany Laksono</author>
     <rights>(C) 2015</rights>
@@ -12,10 +12,10 @@
       
         <item>
           <title>My brand new blog</title>
-          <link>http://github.com/danylaksono/danylaksono.github.io/2015/01/09/My-brand-new-blog/</link>
+          <link>http://danylaksono.com/2015/01/09/My-brand-new-blog/</link>
           <pubDate>Fri, 09 Jan 2015 09:50:25 WIB</pubDate>
           <author>Dany Laksono</author>
-          <guid>http://github.com/danylaksono/danylaksono.github.io/2015/01/09/My-brand-new-blog/</guid>
+          <guid>http://danylaksono.com/2015/01/09/My-brand-new-blog/</guid>
           <description>&lt;p&gt;I&amp;rsquo;ve spent longer than I thought before this blog come to reality. I bought the domain for at least a year or so! but at least it&amp;rsquo;s here right now. I planned to move all my previous blogs hosted in * insert numbers of &amp;lsquo;instant&amp;rsquo; bloggin platform here * to this &lt;a href=&#34;http://github.com/danylaksono/danylaksono.github.io&#34;&gt;Github-hosted site&lt;/a&gt;, so it may take another time until this blog will be fully operational.&lt;/p&gt;
 </description>
         </item>
