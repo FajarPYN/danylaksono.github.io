@@ -17,6 +17,8 @@
           <author>Dany Laksono</author>
           <guid>http://danylaksono.com/2015/01/09/My-brand-new-blog/</guid>
           <description>&lt;p&gt;I&amp;rsquo;ve spent longer than I thought before this blog come to reality. I bought the domain for at least a year or so! but at least it&amp;rsquo;s here right now. I planned to move all my previous blogs hosted in * insert numbers of &amp;lsquo;instant&amp;rsquo; bloggin platform here * to this &lt;a href=&#34;http://github.com/danylaksono/danylaksono.github.io&#34;&gt;Github-hosted site&lt;/a&gt;, so it may take another time until this blog will be fully operational.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://docpad.org&#34;&gt;DOCpad&lt;/a&gt; is my first option for this static blogging platform. It&amp;rsquo;s awesome and has lots of plugins for static and dynamic webpages. But Hugo seems to be faster and I thought I don&amp;rsquo;t really need much of Docpad functionalities (for now). And so this is it :)&lt;/p&gt;
 </description>
         </item>
       
