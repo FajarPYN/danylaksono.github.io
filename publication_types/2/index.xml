@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 on Dany Laksono</title>
-    <link>danylaksono.com/publication_types/2/</link>
+    <link>https://danylaksono.com/publication_types/2/</link>
     <description>Recent content in 2 on Dany Laksono</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
     <lastBuildDate>Thu, 04 Jan 2018 13:32:19 +0700</lastBuildDate>
     
-	<atom:link href="danylaksono.com/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://danylaksono.com/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Geogame On The Peat: Designing Effective Gameplay In Geogames App For Haze Mitigation</title>
-      <link>danylaksono.com/publication/geocrowd-geogaming-2018/</link>
+      <link>https://danylaksono.com/publication/geocrowd-geogaming-2018/</link>
       <pubDate>Thu, 04 Jan 2018 13:32:19 +0700</pubDate>
       
-      <guid>danylaksono.com/publication/geocrowd-geogaming-2018/</guid>
+      <guid>https://danylaksono.com/publication/geocrowd-geogaming-2018/</guid>
       <description></description>
     </item>
     
