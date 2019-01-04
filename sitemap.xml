@@ -1,31 +1,112 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-  <url>
-    <loc>/</loc>
-    <lastmod>2015-01-09T09:50:25+07:00</lastmod>
-  </url>
+    
+    <url>
+    
+      <loc>danylaksono.com/publication/testing-nosql-2018/</loc>
+      <lastmod>2018-01-08T13:23:30+07:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>/2015/01/09/my-brand-new-blog/</loc>
-    <lastmod>2015-01-09T09:50:25+07:00</lastmod>
-  </url>
+    
+    <url>
+    
+      <loc>danylaksono.com/publication/geocrowd-geogaming-2018/</loc>
+      <lastmod>2018-01-04T13:32:19+07:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>/lectures/kuliah-sig-berbasis-internet---1/</loc>
-    <lastmod>2015-01-09T00:00:00+00:00</lastmod>
-  </url>
+    
+    <url>
+    
+      <loc>danylaksono.com/publication/lod1-3dcity-2017/</loc>
+      <lastmod>2017-01-04T13:36:54+07:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>/404/</loc>
-  </url>
+    
+    <url>
+    
+      <loc>danylaksono.com/post/</loc>
+      <lastmod>2017-01-01T00:00:00+07:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>/about/</loc>
-  </url>
+    
+    <url>
+    
+      <loc>danylaksono.com/publication/</loc>
+      <lastmod>2017-01-01T00:00:00+07:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>/workshops/</loc>
-  </url>
+    
+    <url>
+    
+      <loc>danylaksono.com/talk/</loc>
+      <lastmod>2017-01-01T00:00:00+07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>danylaksono.com/publication/cloudsfm-2016/</loc>
+      <lastmod>2016-01-04T13:42:17+07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>danylaksono.com/publication_types/1/</loc>
+      <lastmod>2018-01-08T13:23:30+07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>danylaksono.com/publication_types/2/</loc>
+      <lastmod>2018-01-04T13:32:19+07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>danylaksono.com/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>danylaksono.com/</loc>
+      <lastmod>2017-10-15T00:00:00+07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>danylaksono.com/publication_types/</loc>
+      <lastmod>2018-01-08T13:23:30+07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>danylaksono.com/tags/</loc>
+      <priority>0</priority>
+    </url>
+    
   
 </urlset>

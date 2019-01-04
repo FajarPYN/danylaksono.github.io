@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dany Laksono on Dany Laksono</title>
-    <link>danylaksono.com/</link>
-    <description>Recent content in Dany Laksono on Dany Laksono</description>
+    <title>1 on Dany Laksono</title>
+    <link>danylaksono.com/publication_types/1/</link>
+    <description>Recent content in 1 on Dany Laksono</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0700</lastBuildDate>
-    <atom:link href="danylaksono.com/" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 Jan 2018 13:23:30 +0700</lastBuildDate>
+    
+	<atom:link href="danylaksono.com/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Testing Spatial Data Deliverance in SQL and NoSQL Database Using NodeJS Fullstack Web App</title>
@@ -16,15 +18,6 @@
       <pubDate>Mon, 08 Jan 2018 13:23:30 +0700</pubDate>
       
       <guid>danylaksono.com/publication/testing-nosql-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Geogame On The Peat: Designing Effective Gameplay In Geogames App For Haze Mitigation</title>
-      <link>danylaksono.com/publication/geocrowd-geogaming-2018/</link>
-      <pubDate>Thu, 04 Jan 2018 13:32:19 +0700</pubDate>
-      
-      <guid>danylaksono.com/publication/geocrowd-geogaming-2018/</guid>
       <description></description>
     </item>
     
